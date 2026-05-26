@@ -1,7 +1,7 @@
 # 企业就业经验
 
 ::: info 本页内容为示例模板
-下方为**结构示范**。真实案例将由「就业指导与分享组织组」邀请学长学姐撰写后录入。
+下方为**结构示范**。真实案例将由学长学姐撰写后录入，欢迎通过 [Issue 模板](https://github.com/luokairo/tongji-ocean-career/issues/new?template=experience-submission.yml) 提交你的求职经历。
 :::
 
 ## 案例 1：从海洋技术专业到央企总部（示例）
