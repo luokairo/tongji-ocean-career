@@ -64,6 +64,6 @@
 
 ::: info 如何丰富本页数据？
 - 院系就业办年度数据 → 由项目组成员脱敏后录入
-- 校友自愿提交去向 → 通过 [Issue 模板](https://github.com/your-org/tongji-ocean-career/issues/new?template=experience-submission.yml)
+- 校友自愿提交去向 → 通过 [Issue 模板](https://github.com/luokairo/tongji-ocean-career/issues/new?template=experience-submission.yml)
 - 反馈数据错漏 → 提 Issue 或在页面底部评论
 :::

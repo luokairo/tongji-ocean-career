@@ -57,8 +57,8 @@ features:
 本站是《校企协同实践与就业能力提升行动方案》中**「成果整理与平台建设组」任务 3 共享平台建设**的落地产物，旨在让同济大学海洋学院的求职经验**长期可见、可检索、可补充**。
 
 ::: tip 三种贡献方式
-- 📝 [提交 Issue](https://github.com/your-org/tongji-ocean-career/issues/new/choose) —— 用模板提交经验补充 / 企业信息（**非技术同学推荐**）
-- 🔀 [Fork & Pull Request](https://github.com/your-org/tongji-ocean-career/pulls) —— 直接编辑 Markdown（适合熟悉 Git 的同学）
+- 📝 [提交 Issue](https://github.com/luokairo/tongji-ocean-career/issues/new/choose) —— 用模板提交经验补充 / 企业信息（**非技术同学推荐**）
+- 🔀 [Fork & Pull Request](https://github.com/luokairo/tongji-ocean-career/pulls) —— 直接编辑 Markdown（适合熟悉 Git 的同学）
 - 💬 页面底部评论 —— 简短反馈、提问、答疑（需 GitHub 账号）
 :::
 

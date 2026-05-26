@@ -88,12 +88,12 @@ export default defineConfig({
       {
         icon: 'github',
         // 部署时把这里改成你自己的仓库地址
-        link: 'https://github.com/your-org/tongji-ocean-career',
+        link: 'https://github.com/luokairo/tongji-ocean-career',
       },
     ],
     editLink: {
       pattern:
-        'https://github.com/your-org/tongji-ocean-career/edit/main/docs/:path',
+        'https://github.com/luokairo/tongji-ocean-career/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
     lastUpdatedText: '最后更新于',

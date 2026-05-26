@@ -15,7 +15,7 @@
 
 ### 路径 1 · Issue（推荐给非技术同学，5 分钟搞定）
 
-1. 进入仓库 [Issues 页面](https://github.com/your-org/tongji-ocean-career/issues/new/choose)
+1. 进入仓库 [Issues 页面](https://github.com/luokairo/tongji-ocean-career/issues/new/choose)
 2. 选择一个模板：
    - **📝 求职经验补充**
    - **🏢 企业信息补充**

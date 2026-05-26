@@ -4,13 +4,13 @@ import { useData, useRoute } from 'vitepress'
 
 // ============================================================
 // Giscus 配置 —— 部署后请按 https://giscus.app 生成的实际值替换：
-//   1. data-repo            形如 "your-org/tongji-ocean-career"
+//   1. data-repo            形如 "luokairo/tongji-ocean-career"
 //   2. data-repo-id         giscus.app 生成
 //   3. data-category        建议使用 "Announcements" 或自定义
 //   4. data-category-id     giscus.app 生成
 // ------------------------------------------------------------
 const GISCUS_CONFIG = {
-  repo: 'your-org/tongji-ocean-career',
+  repo: 'luokairo/tongji-ocean-career',
   repoId: 'REPLACE_WITH_REPO_ID',
   category: 'Announcements',
   categoryId: 'REPLACE_WITH_CATEGORY_ID',

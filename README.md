@@ -49,19 +49,16 @@ npm run docs:preview
    https://<your-account>.github.io/tongji-ocean-career/
    ```
 
-### 二、把仓库地址替换到代码里
+### 二、仓库地址配置
 
-以下三个文件中含占位 `your-org/tongji-ocean-career`，请全局替换为你的实际仓库地址：
+当前仓库地址：`luokairo/tongji-ocean-career`。
 
-- [`docs/.vitepress/config.mts`](./docs/.vitepress/config.mts) —— `socialLinks` / `editLink`
-- [`docs/index.md`](./docs/index.md) / [`docs/about/index.md`](./docs/about/index.md) —— 内文链接
-- [`docs/.vitepress/theme/Comments.vue`](./docs/.vitepress/theme/Comments.vue) —— Giscus `data-repo`
-- [`.github/ISSUE_TEMPLATE/config.yml`](./.github/ISSUE_TEMPLATE/config.yml)
+若 fork 后部署到自己的账号下，需要把以下文件里的 `luokairo/tongji-ocean-career` 全局替换：
 
-> 也可用 macOS 终端一键替换：
-> ```bash
-> grep -rl "your-org/tongji-ocean-career" docs .github | xargs sed -i '' "s|your-org/tongji-ocean-career|<your-account>/<your-repo>|g"
-> ```
+```bash
+grep -rl "luokairo/tongji-ocean-career" docs .github *.md \
+  | xargs sed -i '' "s|luokairo/tongji-ocean-career|<your-account>/<your-repo>|g"
+```
 
 ### 三、（可选）启用 Giscus 评论
 

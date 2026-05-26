@@ -97,7 +97,7 @@
 
 如需简历点评：
 
-1. **线上**：[提交 Issue（脱敏简历）](https://github.com/your-org/tongji-ocean-career/issues/new?template=experience-submission.yml)
+1. **线上**：[提交 Issue（脱敏简历）](https://github.com/luokairo/tongji-ocean-career/issues/new?template=experience-submission.yml)
 2. **线下**：参加"简历优化与答疑"活动（由就业指导组组织，关注通知）
 
 ::: warning 隐私

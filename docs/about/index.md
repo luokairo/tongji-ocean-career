@@ -45,7 +45,7 @@
 
 ### 1️⃣ 提交 Issue（推荐给非技术同学）
 
-进入 [Issues 页面](https://github.com/your-org/tongji-ocean-career/issues/new/choose)，选择以下模板之一：
+进入 [Issues 页面](https://github.com/luokairo/tongji-ocean-career/issues/new/choose)，选择以下模板之一：
 
 - **📝 经验补充** —— 分享你的求职故事、笔面试经历
 - **🏢 企业信息补充** —— 推荐新的招聘单位、岗位信息
@@ -56,7 +56,7 @@
 ### 2️⃣ Fork & Pull Request（适合熟悉 Git 的同学）
 
 ```bash
-git clone https://github.com/your-org/tongji-ocean-career.git
+git clone https://github.com/luokairo/tongji-ocean-career.git
 cd tongji-ocean-career
 npm install
 npm run docs:dev      # 本地预览
@@ -64,7 +64,7 @@ npm run docs:dev      # 本地预览
 # 提交 PR
 ```
 
-详见 [CONTRIBUTING.md](https://github.com/your-org/tongji-ocean-career/blob/main/CONTRIBUTING.md)。
+详见 [CONTRIBUTING.md](https://github.com/luokairo/tongji-ocean-career/blob/main/CONTRIBUTING.md)。
 
 ### 3️⃣ 页面底部评论
 
@@ -76,6 +76,6 @@ npm run docs:dev      # 本地预览
 
 ## 联系我们
 
-- GitHub 仓库：<https://github.com/your-org/tongji-ocean-career>
+- GitHub 仓库：<https://github.com/luokairo/tongji-ocean-career>
 - 邮箱：（待补充）
 - 微信群：（待补充）

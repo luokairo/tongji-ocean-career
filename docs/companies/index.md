@@ -35,7 +35,7 @@
 | 信息时效 | 最后核实日期 | 2026-04 |
 
 ::: tip 如何补充企业信息？
-- 👉 [提交 Issue · 企业信息补充](https://github.com/your-org/tongji-ocean-career/issues/new?template=company-info.yml)（推荐）
+- 👉 [提交 Issue · 企业信息补充](https://github.com/luokairo/tongji-ocean-career/issues/new?template=company-info.yml)（推荐）
 - 或直接 PR 修改对应的 Markdown 文件
 :::
 

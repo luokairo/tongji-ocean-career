@@ -36,7 +36,7 @@
 
 如果希望简历得到点评，可：
 
-1. 在 [Issue 区](https://github.com/your-org/tongji-ocean-career/issues/new?template=experience-submission.yml) 提交（请脱敏处理）
+1. 在 [Issue 区](https://github.com/luokairo/tongji-ocean-career/issues/new?template=experience-submission.yml) 提交（请脱敏处理）
 2. 或在线下"简历优化与答疑"活动报名（由就业指导组组织）
 
 <style scoped>

@@ -3,7 +3,7 @@
 本栏目收录同济海洋专业学长学姐的真实求职经历，覆盖**企业就业、选调、事业单位**三大主流赛道。
 
 ::: tip 经验贡献方式
-- 👉 [提交 Issue · 经验补充](https://github.com/your-org/tongji-ocean-career/issues/new?template=experience-submission.yml)（推荐）
+- 👉 [提交 Issue · 经验补充](https://github.com/luokairo/tongji-ocean-career/issues/new?template=experience-submission.yml)（推荐）
 - 👉 直接 Fork 仓库新增 Markdown 文件并提 PR
 :::
 

@@ -1,7 +1,7 @@
 # 简历模板下载
 
 ::: warning 模板待上传
-下方表格展示了**计划提供的模板列表**。实际 PDF / docx / LaTeX 文件待"成果整理组"整理上传到 [`/templates/`](https://github.com/your-org/tongji-ocean-career/tree/main/docs/public/templates) 目录后，"下载"列即可点击。
+下方表格展示了**计划提供的模板列表**。实际 PDF / docx / LaTeX 文件待"成果整理组"整理上传到 [`/templates/`](https://github.com/luokairo/tongji-ocean-career/tree/main/docs/public/templates) 目录后，"下载"列即可点击。
 :::
 
 ## 按赛道分类
