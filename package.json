@@ -1,0 +1,16 @@
+{
+  "name": "tongji-ocean-career-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "同济海洋就业指南 · 校企协同实践与就业能力提升共享平台",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.13"
+  }
+}

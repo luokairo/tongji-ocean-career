@@ -1,0 +1,75 @@
+name: 📝 求职经验补充
+description: 分享你的求职故事 / 笔面试经历 / 选调或考公心得
+title: "[经验] "
+labels: ["经验补充"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢愿意把你的求职经验沉淀给师弟师妹！
+        请按下方结构填写。所有真实姓名、单位敏感信息可以**脱敏**或留空。
+  - type: input
+    id: graduation-year
+    attributes:
+      label: 届别
+      description: 例如：2025 届硕士、2024 届本科
+      placeholder: 2025 届硕士
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: 求职赛道
+      options:
+        - 企业（央企/国企）
+        - 企业（民企）
+        - 企业（外企）
+        - 选调生
+        - 事业单位 / 政府机关
+        - 高校 / 科研单位
+        - 海外深造
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: target
+    attributes:
+      label: 去向单位 / 岗位
+      description: 可以脱敏，例如"某央企海洋装备研究院 / 流体力学研究员"
+    validations:
+      required: true
+  - type: textarea
+    id: timeline
+    attributes:
+      label: 求职时间线
+      description: 按时间顺序列出关键节点
+      placeholder: |
+        - 研一暑期：xxx
+        - 研二9月：xxx
+        - ...
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: 详细经验
+      description: 笔试题型 / 面试问题 / 备考心得 / 避坑建议 等
+    validations:
+      required: true
+  - type: dropdown
+    id: publish-name
+    attributes:
+      label: 署名方式
+      options:
+        - 完全匿名
+        - 仅署"xxxx届师兄/师姐"
+        - 可使用真实姓名（已同意公开）
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: 内容授权
+      options:
+        - label: 我已确认提交的内容不含未脱敏的他人隐私，且授权本站在 CC BY-NC-SA 4.0 协议下使用我提交的内容。
+          required: true

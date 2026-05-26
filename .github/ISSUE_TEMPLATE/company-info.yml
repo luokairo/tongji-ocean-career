@@ -1,0 +1,74 @@
+name: 🏢 企业信息补充
+description: 推荐新企业 / 补充已收录企业的招聘信息
+title: "[企业] "
+labels: ["企业信息"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢补充企业信息！提交后由"成果整理组"成员核实，整理为 Markdown 并上线。
+  - type: input
+    id: company
+    attributes:
+      label: 单位名称
+      description: 完整全称
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 单位性质
+      options:
+        - 央企
+        - 国企
+        - 民企
+        - 研究所
+        - 事业单位
+        - 高校
+        - 外企
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: industry
+    attributes:
+      label: 行业方向
+      description: 例如：海洋装备 / 船舶设计 / 海洋 AI / 海上风电
+    validations:
+      required: true
+  - type: textarea
+    id: positions
+    attributes:
+      label: 招聘岗位
+      description: 列出本届开放的岗位（一行一个）
+    validations:
+      required: true
+  - type: input
+    id: education
+    attributes:
+      label: 学历要求
+      placeholder: "本科 / 硕士 / 博士 / 不限"
+  - type: textarea
+    id: process
+    attributes:
+      label: 招聘流程
+      description: 网申/笔试/面试节奏
+  - type: textarea
+    id: contact
+    attributes:
+      label: 投递渠道 / 联系方式
+      description: 官网链接、HR 邮箱、内推群等
+  - type: input
+    id: source
+    attributes:
+      label: 信息来源
+      description: 哪位学长学姐 / 哪场宣讲会 / 哪个公告？
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: 信息授权
+      options:
+        - label: 我已确认提交的信息不涉及他人未脱敏的隐私，可公开发布。
+          required: true
